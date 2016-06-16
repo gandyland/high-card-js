@@ -24,6 +24,5 @@ var game = {
   },
   playANewGame: function(){
 //Runs all the previous methods in the proper order.
-
   }
 }
