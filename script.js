@@ -7,9 +7,11 @@ var game = {
   buildDeck: function(){
 //Populates the deck array with 52 standard playing cards.
   },
+
   shuffleDeck: function(){
 //Randomizes the order of deck.
   },
+  
   getMorePlayers: function(){
 //Asks the user if they want to add an additional player to the game. If they do, the player is added to the players array. If not, the script continues.
   },
